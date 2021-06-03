@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The manner how the prisoners are to be brought into the city of London, this present Saturday being the 21th. day of Iune, 1645. And met by the Greene and Yellow Regiments at Islington. And in what manner they are to march through the city with their colours that were taken by Sir Thomas Fairfax, carried before them. As also, a list of the figures and mottoes of the said colours, and how afterwards they are to be disposed of.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89484</idno><idno type="EEBO-CITATION">99860923</idno>
+  <idno type="VID">113050</idno>
+  <idno type="EEBO-PROQUEST">2248527296</idno>
+  
+            <idno type="STC">Wing M457</idno>
+            <idno type="STC">Thomason E288_45</idno>
+            <idno type="STC">ESTC R200119</idno>
+            <idno type="PROQUEST">99860923</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99860923e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89484)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113050)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 47:E288[45])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The manner how the prisoners are to be brought into the city of London, this present Saturday being the 21th. day of Iune, 1645. And met by the Greene and Yellow Regiments at Islington. And in what manner they are to march through the city with their colours that were taken by Sir Thomas Fairfax, carried before them. As also, a list of the figures and mottoes of the said colours, and how afterwards they are to be disposed of.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.F. and J. Coe,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The prisoners were taken at Naseby.</note>
+                  <note>Annotation on Thomason copy: "June 21th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Prisoners and prisons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113050:1"/>
+            <pb facs="tcp:113050:1"/>
+            <p>THE Manner how the Prisoners are to be brought into the City OF LONDON, This present <hi>Saturday</hi> being the 21.<seg rend="sup">th</seg> day of <hi>Iune,</hi> 1645.</p>
+            <p>And met by the <hi>Greene</hi> and <hi>Yellow</hi> Regiments at ISLINGTON.</p>
+            <p>And in what manner they are to March through the City with their <hi>Colours</hi> that were taken by Sir THOMAS FAIRFAX, carried before them.</p>
+            <p>AS ALSO, A List of the <hi>Figures</hi> and <hi>Mottoes</hi> of the said <hi>Colours,</hi> and how afterwards they they are to be disposed of.</p>
+            <p>LONDON, Printed by <hi>T. F.</hi> and <hi>J. Coe,</hi> 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:113050:2"/>
+            <pb n="1" facs="tcp:113050:2"/>
+            <head>The Manner how the Prisoners are brought to LONDON, this pre<g ref="char:EOLhyphen"/>sent <hi>Saturday,</hi> the 21. of <hi>June</hi> 1645.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Here were sent up by Colonell Fines from Sir Thomas fair<g ref="char:EOLhyphen"/>fax 4500. prisooners, whereof some being got away, as amongst so many it cannot but bee expected, and besides that there were some of the chiefest not sent up, but disposed of else-where, those will not be here spoken of at all.</p>
+            <p>On Thursday Night Colonell Fines came with his Prisoners to Saint Albones, and that night they were put in a Church in that towne, where they pulled downe the pewes, and did much hurt there, as men set upon mischiefe, as indeede all the broode of them are, most despe<g ref="char:EOLhyphen"/>rately given to wickednesse, there they quarte<g ref="char:EOLhyphen"/>red that night.</p>
+            <pb n="1" facs="tcp:113050:3"/>
+            <p>on <hi>Friday</hi> they set forth from S. <hi>Albones,</hi> came to <hi>Barnet:</hi> from whence they are to march to <hi>London</hi> this day.</p>
+            <div type="part">
+               <head>The manner of their march is to be thus.</head>
+               <p>They march from <hi>Barnet</hi> with Collonel <hi>Fines,</hi> the <hi>Suf<g ref="char:EOLhyphen"/>folke</hi> horse, and the <hi>Hartfordshire</hi> Trained Bands to guard them marching in severall divisions, as may be safest for the security of the charge, to bring the Prisoners safe to Lon<g ref="char:EOLhyphen"/>don, though indeed they have been untuly.</p>
+               <p>The greene and yellow Regiments of the City are ap<g ref="char:EOLhyphen"/>pointed to meet them, to guard them through the City, and the night following, the yellow Regiment is Colonel <hi>Harrisons,</hi> and the green Regiment is Colonel <hi>Roes.</hi>
+               </p>
+               <p>This Saturday morning the yellow Regiment of Col. <hi>Harrisons</hi> are to draw up in Aldersgate street, which is the place appointed for their Randezvouze.</p>
+               <p>The green Regiment of Colonel <hi>Roes</hi> are to be drawn up in <hi>Redcrosse</hi>-street, the place of their Rande<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>-vouses.</p>
+               <p>From thence these 2 Regiments are to march to <hi>Isling<g ref="char:EOLhyphen"/>ton,</hi> to meet the Prisoners, at the further end of <hi>Islington:</hi> they are to meet, about noone is supposed will be the time they meet them.</p>
+            </div>
+            <div type="part">
+               <head>The manner of their meeting at the further end of <hi>Islington</hi> is appoynted thus.</head>
+               <p>Collenel <hi>Roe</hi> and Collonel <hi>Greene</hi> meeting Collonel <hi>Fi<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s</hi> at the place aforesaid, they are to receive the Priso<g ref="char:EOLhyphen"/>ners, and come along with Collonel <hi>Fines</hi> to guard them into the Citty.</p>
+               <p>Having receiv'd the Prisoners they call for the Cullers, so many as are sent up, which are 55 (for the other 30 for there are 80 and odde in all (but no more but 55 come as yet.</p>
+               <p>These 55 cullers are to be carried before the Prisoners through <hi>Islington,</hi> and the City and so on till they have lod<g ref="char:EOLhyphen"/>ged the Prisoners.</p>
+               <pb n="3" facs="tcp:113050:3"/>
+               <p>Here followeth a list of the Colours, with the figures of the severall Scutchions and their Motto's, so many of them as had Motto's.</p>
+               <p>Six Standards of Foot Colours of the Foot guard, all which have every of them a red Crosse in a white silver Field, next unto the Pole, and are severally distinguished thus, the Colours are all red.</p>
+               <p n="1">1. The Kings standard with a goulding Lyon, and over the Lyon a goulden Crown, and over the Lyon and under the Crown this Motto, <hi>DIEV EST MON DROIT.</hi>
+               </p>
+               <p n="2">2. The Queens Standard, with a Dragon and a Crown, both in gould.</p>
+               <p n="3">3. A Percullis and a Crown, both in gould.</p>
+               <p n="4">4. A Rose and Crown, the Crown goulds the Rose white silver in the midle, and the outward leaves shadowes with silver.</p>
+               <p n="5">5. Six Colours of the Standards of Foot Guard were every of them three Roses a piece, in the same manner that the single Rose is described. All of those six Colours of Foot guard, the Colours are red, and have every of them a red Crosse in a white silver Field next the Pole.</p>
+               <p>There are also six royall Colours.</p>
+               <p>The ro<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>all Colours are all Ensignes, the Colours red, a red Crosse upon every of them in a white silver Field.</p>
+               <p>The Duke of <hi>Yorks</hi> Standard is there also, but not the Colours, the Pole is with a white pl<gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>b on the end of it, cut with works very rich, the Pole a long one, and the Standard of the Duke of <hi>Yorks</hi> Reg<gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</p>
+               <p>These 13 be the chiefest of the Colours, the rest follow.</p>
+               <p>There are foure of the Queens Colours, three of which are Irish, and by the iron pikes on the ends of them, ap<g ref="char:EOLhyphen"/>peare to be brought from Ireland</p>
+               <p>Fourteen are with five Patrick Crosses, one great one in the midle.</p>
+               <p n="4">
+                  <pb n="4" facs="tcp:113050:4"/>4 lesser Crosses about it, the Cullers are white, the Cros<g ref="char:EOLhyphen"/>ses Read, and the Kings Coulours viz. a Red Crosse in a white field on the top.</p>
+               <p n="15">15. Hath 16 of Patrickes crosses in the same manner set four square, in four severall fires, as before, and the Kins Colours with it.</p>
+               <p n="16">16. Hath 20 Andrewes Crosses, in a quicke foyle, and the Kings Coulours on the top.</p>
+               <p n="17">17 The other Ensigne is Skie colour, with 3 white stars and the Kings Colours on the top, as the rest.</p>
+               <p>There are also 4 Irish colours of note of Prince Ruperts.</p>
+               <p n="18">18. The one is all skie Colour, and in it only a red Ing<g ref="char:EOLhyphen"/>lish Crosse.</p>
+               <p n="19">19. Another is Skie colour also: with a white Bur<g ref="char:EOLhyphen"/>ridge flowre upon it, and nothing else at all.</p>
+               <p n="20">20. Is Skie Colour, with four white stars, and a red Crosss in a white field.</p>
+               <p n="21">21. The fourth is onely a plaine Greene Ensigne with<g ref="char:EOLhyphen"/>out any figure upon it.</p>
+               <p>There are 7. old colours that were without any strokes at all, very much torne.</p>
+               <p n="22">22. Whereof one skie colour, 1 greene, another mixt Black and White, 2 Red, one black, and the other white that makes 8.</p>
+               <p>In the next place there are these colours of horse.</p>
+               <p n="30">30. One is blacke without any Schuchion or Mottow at all.</p>
+               <p n="31">31 Another if Red Flowred Damaske, as if it was made of some Gentlewomans petticoate, without any Schuchi<g ref="char:EOLhyphen"/>on or Motto, these have surely been hard put to it for Colours, for they look like peeces of old Petticoates.</p>
+               <p n="32">32. Vpon one there is the Picture of a Souldier all in Armour, from the head to the Knees, and with his heeles
+<pb n="5" facs="tcp:113050:4"/> upward, and by him in waves is this Motto,
+<q>Merces conjurates.</q>
+               </p>
+               <p n="33">33. Hath a very faire schochion with 6 silver Lyons Ram<g ref="char:EOLhyphen"/>pant, within a blacke field quartered with 6. Goulden Lyons in a blue field, and a wave made in it for a Motto but none therein.</p>
+               <p n="34">34. Another is of Orange Dammaske, with no Scuchion ar all but in a wave upon it, This Mottoe, <hi>Malem mory quam fedari.</hi>
+               </p>
+               <p n="35">35. Is the horse Colours, of Greene floured Damaske, and this Matto upon it, Cuckol<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, we come.</p>
+               <p n="20">20. Ensignes more there are, some blacke and white, some Greene, some with circles, some with gunstones, some Red, some of one colour, some of another, and a good part of them, are Irish Colours, and Irish staves and pikes, the number in all are 55 and 30. more that are not yet sent up, besides those that were taken at Lester.</p>
+               <p>With those 55. Colo<gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> that are sent up, they are to march as followeth.</p>
+            </div>
+            <div type="part">
+               <head>The Trained Bands of the City being with Colonell, <hi>Fines</hi> at the further end of Islington, the prisoners are con<g ref="char:EOLhyphen"/>ducted along thus.</head>
+               <p n="1">1. The Colours aforesaid are to be Carried (splaying) before the prisoners, all the way.</p>
+               <p n="2">2. The Prisoners which are Officers, are to meet in the Van in order, first, the field Officers, then the inferiour Officers be<g ref="char:EOLhyphen"/>ing safely guarded along in order.</p>
+               <p n="3">3. The common prisoners are to march after guarded in the like manner, from thence to their quarters as followeth.</p>
+               <p n="4">4. They are to March thus through Islington, in order as aforesaid.</p>
+               <p n="5">5. They are to come in by the way of Mount Mill, at the up<g ref="char:EOLhyphen"/>per end of Aldersgate streete.</p>
+               <p n="6">6. It is not Certaine who will be there on our works as their comming, for the Red Regiment of Colonell Hookers is now on the workes, and to go off to morrow.</p>
+               <p n="7">7. To morrow Colonell player with the White Regiment, goes to relieve Colonell Hooker.</p>
+               <p n="8">8. The prisoners are to be brought through the City, en<g ref="char:EOLhyphen"/>tring through the Worke at Mout Mill aforesaid, the time
+<pb n="6" facs="tcp:113050:5"/> they will come as is conceived by Two or 3 a clocke in the Afternoone.</p>
+               <p n="9">9 In this order they are to march through the City with the Colours before them, till they come to <hi>Martins</hi> Lane neere <hi>Charing-crosse.</hi>
+               </p>
+               <p n="10">10 When they come to <hi>Martins</hi> lane end, the chiefe Officers are to be separated, and carried from thence through <hi>Martins</hi> lane, the neerest way to <hi>Peter</hi>-house to be put there.</p>
+               <p n="11">11 There they are to remaine till further order.</p>
+               <p n="12">12 The rest of the Prisoners are to be Condu<g ref="char:EOLhyphen"/>cted to the <hi>Mewes</hi> at <hi>Charing-crosse,</hi> and kept there guarded by the Trained bands till further order. And order is taken for the present for their dyet, and will be sodainly for the disposing of them.</p>
+               <p>And Gibbets are to be set up for such as shall be disorderly to breed disturbances, and cause uproares.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
